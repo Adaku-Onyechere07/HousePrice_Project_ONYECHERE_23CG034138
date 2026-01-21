@@ -1,0 +1,6 @@
+Name: PAM DAVID
+Matric Number: 23CG034152
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method Used: Joblib
+Live URL: https://housepriceprojectpamdavid23cg034152-h4xsm4vt3jn2unn6mjq4dm.streamlit.app/
+GitHub Repository Link: https://github.com/dpam17/HousePrice_Project_PAMDAVID_23CG034152

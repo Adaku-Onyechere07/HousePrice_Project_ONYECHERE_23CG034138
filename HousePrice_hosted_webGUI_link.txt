@@ -2,5 +2,5 @@ Name: ONYECHERE ADAKU
 Matric Number: 23CG034138
 Model Persistence Method Used: Joblib
 Machine Learning Algorithm Used: Random Forest Regressor
-Live URL: 
+Live URL: https://housepriceprojectonyechere23cg034138.streamlit.app/
 GitHub Repository Link: https://github.com/Adaku-Onyechere07/HousePrice_Project_ONYECHERE_23CG034138.git
